@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "ms-vscode.cpptools",
+    // for cmake 
+    "twxs.cmake",
+    "ms-vscode.cmake-tools",
+    // for debug
+    "vadimcn.vscode-lldb",
+    // for formatting
+    "xaver.clang-format",
+  ]
+}
