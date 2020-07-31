@@ -1,5 +1,5 @@
-# base-sfml-app
-A carcass for sfml games
+# simple-cpp-app-template
 
-## requirements:
-* [CMake](https://cmake.org/)
+A template for developing C++ applications.
+
+Simple configuration with CMake, clang-format, VSCode Debug. 
